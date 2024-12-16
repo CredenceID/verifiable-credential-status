@@ -6,7 +6,7 @@
 
     <groupId>com.credenceid</groupId>
     <artifactId>verifiable-credential-status</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -30,6 +30,10 @@
             <id>nexus-snapshots</id>
             <url>https://nexus.credenceid.com/repository/maven-snapshots/</url>
         </snapshotRepository>
+        <repository>
+            <id>nexus-release</id>
+            <url>https://nexus.credenceid.com/repository/maven-releases/</url>
+        </repository>
     </distributionManagement>
 
     <repositories>
