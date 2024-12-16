@@ -1,6 +1,6 @@
-package com.credenceid.credentialstatuscheck.util;
+package com.credenceid.vcstatus.util;
 
-import com.credenceid.credentialstatuscheck.exception.CredentialStatusProcessingException;
+import com.credenceid.vcstatus.exception.CredentialStatusProcessingException;
 import org.apache.commons.codec.binary.Base64;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

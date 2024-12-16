@@ -1,10 +1,10 @@
-package com.credenceid.credentialstatuscheck.service;
+package com.credenceid.vcstatus.service;
 
-import com.credenceid.credentialstatuscheck.client.StatusListClient;
-import com.credenceid.credentialstatuscheck.dto.StatusVerificationResult;
-import com.credenceid.credentialstatuscheck.exception.CredentialStatusNetworkException;
-import com.credenceid.credentialstatuscheck.exception.CredentialStatusProcessingException;
-import com.credenceid.credentialstatuscheck.util.Constants;
+import com.credenceid.vcstatus.client.StatusListClient;
+import com.credenceid.vcstatus.dto.StatusVerificationResult;
+import com.credenceid.vcstatus.exception.CredentialStatusNetworkException;
+import com.credenceid.vcstatus.exception.CredentialStatusProcessingException;
+import com.credenceid.vcstatus.util.Constants;
 import com.danubetech.verifiablecredentials.VerifiableCredential;
 import com.danubetech.verifiablecredentials.credentialstatus.CredentialStatus;
 import com.fasterxml.jackson.databind.ObjectMapper;

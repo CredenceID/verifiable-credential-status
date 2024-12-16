@@ -1,4 +1,4 @@
-package com.credenceid.credentialstatuscheck.exception;
+package com.credenceid.vcstatus.exception;
 
 /**
  * Exception thrown when there is an error related to the server processing status list.

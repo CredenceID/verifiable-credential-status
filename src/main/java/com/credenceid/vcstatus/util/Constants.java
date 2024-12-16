@@ -1,4 +1,4 @@
-package com.credenceid.credentialstatuscheck.util;
+package com.credenceid.vcstatus.util;
 
 /**
  * A utility class that contains constant error messages used throughout the application.

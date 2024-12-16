@@ -1,6 +1,6 @@
-package com.credenceid.credentialstatuscheck.util;
+package com.credenceid.vcstatus.util;
 
-import com.credenceid.credentialstatuscheck.exception.CredentialStatusProcessingException;
+import com.credenceid.vcstatus.exception.CredentialStatusProcessingException;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
