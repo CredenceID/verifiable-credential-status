@@ -1,7 +1,7 @@
-package com.credenceid.credentialstatuscheck.client;
+package com.credenceid.vcstatus.client;
 
-import com.credenceid.credentialstatuscheck.exception.CredentialStatusNetworkException;
-import com.credenceid.credentialstatuscheck.util.Constants;
+import com.credenceid.vcstatus.exception.CredentialStatusNetworkException;
+import com.credenceid.vcstatus.util.Constants;
 import com.danubetech.verifiablecredentials.VerifiableCredential;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

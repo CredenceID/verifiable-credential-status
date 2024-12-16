@@ -1,4 +1,4 @@
-package com.credenceid.credentialstatuscheck.dto;
+package com.credenceid.vcstatus.dto;
 
 /**
  * A record representing the result of a status verification.
